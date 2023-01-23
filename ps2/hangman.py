@@ -1,6 +1,6 @@
 # Problem Set 2, hangman.py
 # Name: Matt Wells
-# Collaborators: ChatGPT + Google
+# Collaborators: Google
 # Time spent: Way too long
 
 # Hangman Game
